@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+p{
+	position:absolute;
+	color:white;
+	margin-left:140px;
+}
+img{
+	width:600px;
+}
